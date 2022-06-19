@@ -1,8 +1,8 @@
 // CSD405 - Intermediate Programming with Java
 // Name: Maria Q. Michaels
 // Date: 06/12/2022
-// Assignment: Module 3 Assignment
-// Purpose: Create an integer class.
+// Assignment: Module 4 Assignment
+// Purpose: Create an array list class.
 
 
 import java.util.*;
