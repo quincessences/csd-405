@@ -10,12 +10,10 @@ public class MichaelsFan {
 	static final int SLOW = 1;
 	static final int MEDIUM = 2;
 	static final int FAST = 3;
-   
 	private int speed=STOPPED;
 	private boolean on=false;
 	private double radius=6;
 	String color="white";
-   
 	//Constructor which stores default values
 	public MichaelsFan(){
 		speed = 0;
@@ -23,7 +21,6 @@ public class MichaelsFan {
 		radius = 6;
 		color = "white";
 	}
-   
 	public String toString(){
 		String onoff;
 		if(on())
