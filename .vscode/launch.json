@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LambdaExpressions",
+            "request": "launch",
+            "mainClass": "LambdaExpressions",
+            "projectName": "csd-405_246950de"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowPaneExample",
+            "request": "launch",
+            "mainClass": "FlowPaneExample",
+            "projectName": "csd-405_246950de"
+        },
+        {
+            "type": "java",
+            "name": "Launch BorderPaneExample",
+            "request": "launch",
+            "mainClass": "BorderPaneExample",
+            "projectName": "csd-405_246950de"
+        },
+        {
+            "type": "java",
             "name": "Launch MichaelsCards",
             "request": "launch",
             "vmArgs": "--module-path C:/Users/mqmpr/Downloads/openjfx-18.0.1_windows-x64_bin-sdk/javafx-sdk-18.0.1/lib --add-modules javafx.controls,javafx.fxml",
